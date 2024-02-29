@@ -1,0 +1,60 @@
+@charset "utf-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(71, 71, 71);
+}
+
+header{
+    text-align: center;
+    font-size: 20px;
+    background-color: antiquewhite;
+    padding: 30px;
+    margin-left: 150px;
+    margin-right: 150px;
+    border: solid;
+}
+
+.cabecalho{
+    color:rgb(0, 0, 44);
+}
+
+#cargahoraria{
+    font-size: 20px;
+}
+
+div{
+    border: solid;
+    font-size: smaller;
+    text-align: justify;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color:rgb(250, 239, 225);
+}
+
+article{
+    text-align: justify;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 20px;
+    border-left: solid;
+    border-right: solid;
+    background-color:rgb(250, 239, 225);
+}
+
+section{
+    text-align:justify ;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: 20px;
+    border: solid;
+    background-color:rgb(250, 239, 225);
+}
+
+h3{
+    margin-left: 150px;
+    margin-right: 150px;
+}
